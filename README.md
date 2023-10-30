@@ -1,4 +1,4 @@
-In this project, let's fix the **Fetch And Routing** practice app by applying the concepts we have learned till now.
+In this project,  practice app by applying the concepts of fetching the data from APIs and using the concept of Routing to navigate beteewn the pages.
 
 ### Refer to the image below:
 
